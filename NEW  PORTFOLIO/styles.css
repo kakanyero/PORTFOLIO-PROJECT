@@ -4,4 +4,13 @@
 }
 body{
     background-color: #FEFBFC;
+    
 }
+.nav-items{
+    display: flex;
+    justify-content: letf;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
