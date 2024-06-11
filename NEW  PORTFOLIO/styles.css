@@ -1,17 +1,26 @@
-
 *{
     box-sizing: border-box;
 }
+
+.nav-bar{
+    align-items: end;
+}
+
 body{
-    background-color: #FEFBFC;
-    
+    display: inline;
+    background-color: antiquewhite;
+    max-width: 200px;
+    width: 80%;
+    text-align: center;
 }
-.nav-items{
+img{
+    max-width: 400px;
+}
+.intro{
     display: flex;
-    justify-content: letf;
+    flex-direction: row;
 }
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 0%;
-  }
+.intro  img{
+    border-radius: 40%;
+    width: 300px;
+}
