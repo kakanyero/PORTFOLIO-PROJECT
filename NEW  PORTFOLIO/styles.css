@@ -15,6 +15,7 @@ body{
 }
 img{
     max-width: 400px;
+    padding: 0%;
 }
 .intro{
     display: flex;
