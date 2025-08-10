@@ -1,4 +1,2 @@
-No javascript
-html
-css
-no lib
+DEPLOYMENT LINK
+https://portfolio-project-delta-seven.vercel.app/
